@@ -201,7 +201,7 @@ For security issues, please email security@swarms.ai rather than using issues.
 Run the comprehensive test suite:
 
 ```bash
-python swarm_shield_tests.py
+python3 tests.py
 ```
 
 ## Support 💬
