@@ -1,3 +1,7 @@
+chat.json
+swarm_shield_storage/*
+swarm_shield_with_wallet_and_consensus/*/*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
